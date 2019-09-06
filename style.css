@@ -47,7 +47,7 @@ body {
 
 /* change header fonts and sizes*/
 h1, h2, h3, h4, h5, h6 {
-    font: italic bold 8px/29px Georgia, serif;
+    font: italic bold 50px/50px Georgia, serif;
 }
 
 /*Use group selectors to change the text color of all list items and paragraphs.*/
