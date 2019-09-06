@@ -9,9 +9,10 @@ table {
 }
 
 pre {
-    background-color: #FF00FF;
     border-width: 7px;
+    padding: 5px;
     border-color: #000000;
+    background-color: #FF00FF;
 }
 
 a {
@@ -25,6 +26,10 @@ ul {
 
 li {
     margin: 10px;
+}
+
+li li {
+    list-style-type: disc;
 }
 
 img {
