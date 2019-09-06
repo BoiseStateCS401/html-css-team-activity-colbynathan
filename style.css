@@ -9,10 +9,8 @@ table {
 }
 
 pre {
-    border-width: 7px;
-    padding: 5px;
-    border-color: #000000;
-    background-color: #FF00FF;
+    border: 7px solid #000000;
+    background: #FF00FF;
 }
 
 a {
